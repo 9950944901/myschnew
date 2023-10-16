@@ -1,0 +1,5 @@
+@include('layouts.teacher-header')
+@include('layouts.teacher-sidebar')
+@yield('content')
+@include('layouts.toster')
+@include('layouts.footer')
